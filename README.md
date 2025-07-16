@@ -142,6 +142,15 @@ volume_level = 0.9  # Volume (0.0 to 1.0)
 | Left Cheek | 280, 345, 346, 347 | Left facial side |
 | Right Cheek | 50, 116, 117, 118 | Right facial side |
 
+### **Outputs**
+| Facial Part | Description |
+|-------------|-------------|
+|**Mouth**|![Alt Text](face5.PNG)|
+|**Left Eye**|![Alt Text](face2.PNG)|
+|**Right Cheek**|![Alt Text](face3.PNG)|
+|**Forehead**|![Alt Text](face4.PNG)|
+|**Nose**|![Alt Text](face1.PNG)|
+
 ## **Troubleshooting**
 
 ### **Common Issues**
